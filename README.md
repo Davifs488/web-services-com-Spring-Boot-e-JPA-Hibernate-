@@ -1,15 +1,22 @@
 # Web-services-com-Spring-Boot-e-JPA-Hibernate-
+Projeto web services com Spring Boot e JPA / Hibernate 
+ 
+Objetivos 
+•	Criar projeto Spring Boot Java 
+•	Implementar modelo de domínio 
+•	Estruturar camadas lógicas: resource, service, repository 
+•	Configurar banco de dados de teste (H2) 
+•	Povoar o banco de dados 
+•	CRUD - Create, Retrieve, Update, Delete • Tratamento de exceções 
 
-<h1>O objeto desse projeto </h1>
-<bod> 
-  <h1>Foi trazer para pratica os conseitos do Spring Boot e JPA/Hibernete</h1><h1>
-  Em um treinamento com as ferramentas mais usada no back end </h1> <h1>Atravez do curso UDEMY</h1>
-<h1>Com o instrutor Nelio Alves</h1></bod>
 
 
 
 
 #  Tecnologias utilizadas
+
+![image](https://github.com/Davifs488/web-services-com-Spring-Boot-e-JPA-Hibernate-/assets/116277311/c2962a94-89b8-4f46-8e42-74da94abad92)
+
 - Java
 - Postgre
 - JPA / Hibernate
