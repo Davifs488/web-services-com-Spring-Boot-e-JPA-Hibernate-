@@ -41,8 +41,8 @@ Github:
 # Autor
 <h3>Davi Ferreira da Silva</h3>
 <h3>Projeto foi feito atravez do curso Udemy</h3>
-<3> E com o auxilio do instrutor : Dr. Nelio Alves </h3>
+<h3> E com o auxilio do instrutor : Dr. Nelio Alves </h3>
 <h3>Aluno do curso superior de analise e desenvolvimento de sistema(UNOPAR)</h3>
-<h3>Seu perfil<h3>
+<h3>Meu perfil<h3>
 <h3>https://linkedin.com/in/davi-ferreira-da-silva-915a891a4</h3>
   <h3>sildv45@gmail.com</h3>
